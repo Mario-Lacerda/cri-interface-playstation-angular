@@ -1,0 +1,11 @@
+.container{
+    /* border: red solid 2px; */
+    padding-top: 1.5rem;
+    width: 90%;
+    margin: auto;
+    display: flex;
+    justify-content: space-around;
+    align-items: baseline;
+    flex-wrap: wrap;
+
+}
